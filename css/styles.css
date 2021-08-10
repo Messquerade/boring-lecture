@@ -4,3 +4,8 @@
   border-style: solid;
   border-color: darkolivegreen;
 }
+
+.highlight {
+  background-color: yellow;
+  border: black solid;
+}
